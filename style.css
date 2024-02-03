@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:navy ;
+    padding:10px ;
+    color: white;
+}
+header a{
+    border: 2px solid white; padding: 3px;color: white;
+}
+h1{
+    text-align: center;color: purple;
+}
+footer{
+    background-color: pink;border:3px solid pink;
+}
+footer p{
+    
+    background-color: white;
+    padding: 3px;
+    
+}
+nav { 
+ background-color: green;
+}
+nav a{
+    color: white;
+    text-decoration: white;
+    margin: 55px;
+}
+
+p img{
+    background-color: green;
+
+}
+
+.imj{
+    background-color: green;
+
+}
+main h2{
+    color:blue;
+}
+.uuu{
+    border: 3px solid blue;
+    padding: 10px;
+    text-decoration: white;
+}
+main{
+    padding: 5px;
+}
+p{
+    font-size: 20px;
+}
